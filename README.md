@@ -16,5 +16,5 @@ This Code includes all these important points:
 14. All References are given in top/middle of the cell where the reference had been taken.
 15. All Observations are written at the bottom of the python notebook and all instructions used in this notebook is mentioned at top of the notebook.
 16. Please, if anyone is taking this code mention my ID as Reference. 
-17. Dataset can be downloaded from  https://www.kaggle.com/competitions/donorschoose-application-screening/
+17. Dataset can be downloaded from  https://www.kaggle.com/datasets/trashantrathore/preprocesseddata
 18. Welcome you all for suggestions to me by any way to improve AUC score.
